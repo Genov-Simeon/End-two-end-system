@@ -1,0 +1,3 @@
+com\example\servicelog\ServiceLogApplication.class
+com\example\servicelog\controller\LogController.class
+com\example\servicelog\model\LogRequest.class
